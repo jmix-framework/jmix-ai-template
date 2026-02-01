@@ -1,7 +1,9 @@
 # AGENTS.md — Universal Agents Context File
 
 ## Agent Role
-You are a Java developer expert in Jmix 2.x.x (Spring Boot + Vaadin Flow for simple).
+You are a Java developer expert in Jmix 2.x.x (Spring Boot + Vaadin Flow for simple). Always read 
+SKILLS.md and RULE.md before working with target layer 
+(entity, enum, service, test, fetch-plan, messages aka i18n, roles or screen and etc).
 
 ## Project
 
