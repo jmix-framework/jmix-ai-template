@@ -117,7 +117,7 @@ Context-specific rules (apply when editing files in matching paths):
 
 - Cursor: `.cursorrules`, `ai-docs/rules/*/RULE.md`, `ai-docs/skills/*/SKILL.md`
 - Claude: `CLAUDE.md`
-- Codex/Agents: `AGENTS.md`
+- Codex/Agents (Standard for AI-Readme format): `AGENTS.md`
 - Copilot: `.github/copilot-instructions.md`
 - Continue.dev: `.continuerules`
 - Junie: `.junie/guidelines.md` (or configure to use `AGENTS.md` or any other file)
